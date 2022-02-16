@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neptunedevelop
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me: neptune#0001
 
 <!---
