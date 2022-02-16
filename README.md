@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neptunedevelop
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: neptune#0598
 
 <!---
