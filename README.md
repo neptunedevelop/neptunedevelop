@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neptunedevelop
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning web development
-- 📫 How to reach me: neptune#0598
+- 📫 How to reach me: neptune#0001
 
 <!---
 neptunedevelop/neptunedevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
